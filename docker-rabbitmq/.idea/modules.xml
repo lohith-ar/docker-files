@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/consumer-service/consumer-service.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/consumer-service/consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/consumer-service2/consumer-service2.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/consumer-service2/consumer-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docker-rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/docker-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/maincourse_java_jfse_mc04_rabbitmq_exercise.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/maincourse_java_jfse_mc04_rabbitmq_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/producer-service/producer-service.iml" filepath="$PROJECT_DIR$/maincourse_java_jfse_mc04_rabbitmq_exercise/producer-service/producer-service.iml" />
+    </modules>
+  </component>
+</project>
